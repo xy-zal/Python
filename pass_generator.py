@@ -3,7 +3,7 @@ import string
 
 LETTERS = string.ascii_letters
 NUMS = '0123456789'
-SPE = '!@#%&*'
+SPE = '!@#$%'
 FINAL = LETTERS + NUMS + SPE
 
 len = int(input("PANJANG PASSWORD: "))
